@@ -39,7 +39,6 @@ disable=
     wrong-import-order,
     consider-using-f-string,
     unspecified-encoding,
-    use-maxsplit-arg,
     arguments-renamed,
     consider-using-in,
     use-dict-literal,
